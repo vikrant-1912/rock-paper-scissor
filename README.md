@@ -31,6 +31,17 @@ A fun and simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ---
 
+
+## 🧑‍💻 Author
+Vikrant Khatana
+📧 vikrantkumar81811@gmail.com
+🌐 GitHub
+
+
+Thanks for playing! Feedback and stars ⭐️ are welcome!
+
+
+
 ## 📦 How to Run Locally
 
 1. Clone the repository:
@@ -41,10 +52,6 @@ cd rock-paper-scissors
 
 
 
-## 🧑‍💻 Author
-Vikrant Khatana
-📧 vikrantkumar81811@gmail.com
-🌐 GitHub
 
 
-Thanks for playing! Feedback and stars ⭐️ are welcome!
+
